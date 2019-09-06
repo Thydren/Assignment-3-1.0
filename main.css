@@ -10,3 +10,8 @@ text-decoration: underline;
 #title:focus {
 text-decoration: underline;
 }
+
+section p {
+    text-indent: 2em;
+    width: 500px;
+}

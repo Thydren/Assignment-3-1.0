@@ -1,2 +1,3 @@
-# Assignment-3-1.0
-Biography on Alan Turing.
+# Assignment03
+Assignment03-Biography. 
+Doing this for my CIS class. My biography is going to be on Alan Turing.
